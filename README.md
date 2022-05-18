@@ -1,5 +1,5 @@
 # IPK-projects
-## 2021/2022 INC projekty
+## 2021/2022 IPK projekty
 
 <img src="./other/images/FIT_zkratka_barevne_RGB_CZ.png" width="200">
 
